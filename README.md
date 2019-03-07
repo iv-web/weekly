@@ -23,7 +23,8 @@
   - [你真的了解回流和重绘吗](https://mp.weixin.qq.com/s/g8MBJx1yG1duN1P-qth9NQ)
   - [一篇文章带你认识GraphQL](https://mp.weixin.qq.com/s/7mcYkMrqBb2AH8G1pJVvxg)
   - [CSS @font-face性能优化](https://mp.weixin.qq.com/s/1UjYhhrNv1SXrApc7y0JnA)
-	- [Web 关闭页面时发送Ajax请求 —— sendBeacon](https://mp.weixin.qq.com/s/qNfshNlHNvLD5u1yLMUJog)
+  - [Web 关闭页面时发送Ajax请求 —— sendBeacon](https://mp.weixin.qq.com/s/qNfshNlHNvLD5u1yLMUJog)
+
 
 - 精品翻译：
   - [【译】ES7装饰器实用入门指南](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247485883&idx=1&sn=729d6a1ed2d44983d3a16d1af6f2b4f2&chksm=e8d28423dfa50d358ebe10672848b5954ebd3740e67734065033cd1e8e71b5c8d199cb0b00dd#rd)
