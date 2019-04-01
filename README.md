@@ -25,6 +25,7 @@
   - [CSS @font-face性能优化](https://mp.weixin.qq.com/s/1UjYhhrNv1SXrApc7y0JnA)
   - [Web 关闭页面时发送Ajax请求 —— sendBeacon](https://mp.weixin.qq.com/s/qNfshNlHNvLD5u1yLMUJog)
   - [Lottie-前端实现AE动效](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486292&idx=1&sn=d0037b23938d340bade287179935e4a0&chksm=e8d286ccdfa50fda62aacb82d1594519cdfe4916f6138c75e707441006e152514933fea8a700&token=338769739&lang=zh_CN#rd)
+  - [PNG图片压缩原理--屌丝的眼泪](https://mp.weixin.qq.com/s/yeYOypbWi_Z-NAlHHS7v7A)
 
 - 精品翻译：
   - [【译】ES7装饰器实用入门指南](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247485883&idx=1&sn=729d6a1ed2d44983d3a16d1af6f2b4f2&chksm=e8d28423dfa50d358ebe10672848b5954ebd3740e67734065033cd1e8e71b5c8d199cb0b00dd#rd)
