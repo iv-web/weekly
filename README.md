@@ -39,3 +39,4 @@
   - [【译】透过比特币盗取事件分析event-stream的漏洞原因](https://mp.weixin.qq.com/s/l7lZa7JinqTjeI1-e27RSQ)
   - [【译】在JS中，如何让(a===1 && a===2 && a === 3)(严格相等)的值为true？](https://mp.weixin.qq.com/s/PneWG2ij9p7pukXO95W8tQ)
   - [【译】Facebook如何通过工具学习自动修复Bug ？](https://mp.weixin.qq.com/s/Z4L5wi1AiLi-SgN0GnUQbw)
+  - [【译】What's New In DevTools (Chrome 74)](https://mp.weixin.qq.com/s/vzfedLX4LfEw7fTAiTURCA)
