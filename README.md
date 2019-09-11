@@ -51,3 +51,4 @@
   - [【译】What's New In DevTools (Chrome 74)](https://mp.weixin.qq.com/s/vzfedLX4LfEw7fTAiTURCA)
   - [【译】如何避免在JavaScript中阻塞DOM](https://mp.weixin.qq.com/s/xjk9RMOm_njQXOVrjkNAwA)
   - [【译】什么是Deno？跟Node.js有何区别？](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&tempkey=MTAxOF8zNnUrb1UyZmtuVlJDeHplMXdFZlVUMms0NVpmXzQ3U2I5UDEtX0Fmdk1FTER2WU1kM0hkU2JBOXZWYVN0dk9RMGQxcmt6UDRCMkF6NXNoVy1LaE1wd0ZzTnotemRLSXZZS1lJeU94MVJPZzlUVWM4R1J3djRwZzRsbGR3UWNYcFo5Wjc1NzhZZWVwX2VmVlowN0xMeWFfWnJRZVhJem05d1YxTmZBfn4%3D&chksm=68d281d05fa508c63bbe81d68412b6d5a3f3771ead85af6d7b7e595d620ba219d89b35d45e7c#rd)
+  - [【译】理解 Node.js 的中 Worker Threads](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486722&idx=1&sn=9f2bd1084b5901d0f62322f9b09a5f2e&chksm=e8d2809adfa5098c4016dfaa80005c4b316eef6d191fb1ce76fbe214eaf373cb505a817fd698&token=1027393733&lang=zh_CN#rd)
