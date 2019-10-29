@@ -39,6 +39,7 @@
   - [F5键已抠的我，根本不慌！（基于whistle的livereload）](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486751&idx=1&sn=4727866eaedbc152c2f6abd5a0ce742c&chksm=e8d28087dfa50991d42e358f9f70f213b1107c7227e489490f28f08dafc9059082a7b7553b2a&token=344519482&lang=zh_CN#rd)
   - [说说JS中的沙箱](https://mp.weixin.qq.com/s/8H84IO9bhF4SG3FXdK7DPQ)
   - [A/Btest——视觉设计与数据增长擦出的火花](https://mp.weixin.qq.com/s/rCWKoDjSVLBRc-rZRosuRw)
+  - [TypeScript安利指南](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486801&idx=1&sn=65f89dc7b8b1c75ca7f16fb25f588126&chksm=e8d280c9dfa509df7ca2ddc1d5b7278c024375af27920d8fe75c77bf6a3dba39b8c01c2160ba&token=361633336&lang=zh_CN#rd)
 - 精品翻译：
   - [【译】ES7装饰器实用入门指南](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247485883&idx=1&sn=729d6a1ed2d44983d3a16d1af6f2b4f2&chksm=e8d28423dfa50d358ebe10672848b5954ebd3740e67734065033cd1e8e71b5c8d199cb0b00dd#rd)
   - [【译】《GraphQL 名词 101：解析 GraphQL 的查询语法》](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247485938&idx=1&sn=7330458a9560a1f8f49c17d891aec7b6&chksm=e8d2846adfa50d7c3429fea61f76e82ba5ca781e5d6d1128b8a78755a3b6de9396f15155b6a5#rd)
