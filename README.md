@@ -41,6 +41,7 @@
   - [A/Btest——视觉设计与数据增长擦出的火花](https://mp.weixin.qq.com/s/rCWKoDjSVLBRc-rZRosuRw)
   - [TypeScript安利指南](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486801&idx=1&sn=65f89dc7b8b1c75ca7f16fb25f588126&chksm=e8d280c9dfa509df7ca2ddc1d5b7278c024375af27920d8fe75c77bf6a3dba39b8c01c2160ba&token=361633336&lang=zh_CN#rd)
   - [PWA-PLUS 项目接入性能分析报告](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486816&idx=1&sn=3c53e4e53037a98ada1606bc014df50c&chksm=e8d280f8dfa509ee7108925f0a43a22567b5c3352fbac3220bd7bf28f7256cc09589a228fd29&token=1408792024&lang=zh_CN#rd)
+  - [浏览器指纹追踪技术简述](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486859&idx=1&sn=1f5f375eb0631caacf84e6164cdc0ad5&chksm=e8d28013dfa5090568ae3d1ef0a6ef24456abe649967d7c48b0b52a62da87ee54cd1470eba62&mpshare=1&scene=1&srcid=&sharer_sharetime=1573452754767&sharer_shareid=df5f791706781a337c19aacafed0cb2f&rd2werd=1#wechat_redirect)
 - 精品翻译：
   - [【译】ES7装饰器实用入门指南](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247485883&idx=1&sn=729d6a1ed2d44983d3a16d1af6f2b4f2&chksm=e8d28423dfa50d358ebe10672848b5954ebd3740e67734065033cd1e8e71b5c8d199cb0b00dd#rd)
   - [【译】《GraphQL 名词 101：解析 GraphQL 的查询语法》](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247485938&idx=1&sn=7330458a9560a1f8f49c17d891aec7b6&chksm=e8d2846adfa50d7c3429fea61f76e82ba5ca781e5d6d1128b8a78755a3b6de9396f15155b6a5#rd)
