@@ -63,3 +63,4 @@
   - [【译】理解 Node.js 的中 Worker Threads](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486722&idx=1&sn=9f2bd1084b5901d0f62322f9b09a5f2e&chksm=e8d2809adfa5098c4016dfaa80005c4b316eef6d191fb1ce76fbe214eaf373cb505a817fd698&token=1027393733&lang=zh_CN#rd)
   - [【译】Google官方文章——如何去做code review](https://mp.weixin.qq.com/s/QOejoyNSjxTw1ii4T6sQTQ)
   - [【译】AssemblyScript简介与指南](https://mp.weixin.qq.com/s/unINhSv5PAUKc_Pzw9WAaA)
+  - [【译】React Native — 桥接Bridge 到 Fabric项目（RN新架构）](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486950&idx=1&sn=9e38b9c63a059d4377035b74851880dc&chksm=e8d2807edfa5096862bc3bc844b3e144eadd2868722c54a05128867deb6fde0f62cc802fc32f&mpshare=1&scene=23&srcid=&sharer_sharetime=1575337167603&sharer_shareid=0756610ab67db8a88654263d0b215c95#rd)
