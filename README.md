@@ -45,6 +45,7 @@
   - [浏览器指纹追踪技术简述](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486859&idx=1&sn=1f5f375eb0631caacf84e6164cdc0ad5&chksm=e8d28013dfa5090568ae3d1ef0a6ef24456abe649967d7c48b0b52a62da87ee54cd1470eba62&mpshare=1&scene=1&srcid=&sharer_sharetime=1573452754767&sharer_shareid=df5f791706781a337c19aacafed0cb2f&rd2werd=1#wechat_redirect)
   - [别了，代理工具——Fastest免代理访问测试环境方案](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486870&idx=1&sn=e41121b2ccc702418a7a873631ce6c1a&chksm=e8d2800edfa5091818fd3760293c6f0d474c85f6f14c685e47f9fb51cd83e786bb367c38b99d&token=1677889950&lang=zh_CN#rd)
   - [「NGW」前端新技术赛场：Serverless SSR 技术内幕](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486876&idx=1&sn=bf0ffce698a2fc14d117d5e4e7d6e9b7&chksm=e8d28004dfa50912c0e75781e58019b8768d54b4bdbeb9f81d8a876d27326797c39fafde619c&token=1054099727&lang=zh_CN#rd)
+  - [这才是真正的Git——Git内部原理](https://mp.weixin.qq.com/s/HJCI1mTWGW4cJnvA7GazYQ)
 - 精品翻译：
   - [【译】ES7装饰器实用入门指南](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247485883&idx=1&sn=729d6a1ed2d44983d3a16d1af6f2b4f2&chksm=e8d28423dfa50d358ebe10672848b5954ebd3740e67734065033cd1e8e71b5c8d199cb0b00dd#rd)
   - [【译】《GraphQL 名词 101：解析 GraphQL 的查询语法》](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247485938&idx=1&sn=7330458a9560a1f8f49c17d891aec7b6&chksm=e8d2846adfa50d7c3429fea61f76e82ba5ca781e5d6d1128b8a78755a3b6de9396f15155b6a5#rd)
