@@ -68,4 +68,4 @@
   - [【译】Google官方文章——如何去做code review](https://mp.weixin.qq.com/s/QOejoyNSjxTw1ii4T6sQTQ)
   - [【译】AssemblyScript简介与指南](https://mp.weixin.qq.com/s/unINhSv5PAUKc_Pzw9WAaA)
   - [【译】React Native — 桥接Bridge 到 Fabric项目（RN新架构）](https://mp.weixin.qq.com/s?__biz=MzIzNjcwNzA2Mw==&mid=2247486950&idx=1&sn=9e38b9c63a059d4377035b74851880dc&chksm=e8d2807edfa5096862bc3bc844b3e144eadd2868722c54a05128867deb6fde0f62cc802fc32f&mpshare=1&scene=23&srcid=&sharer_sharetime=1575337167603&sharer_shareid=0756610ab67db8a88654263d0b215c95#rd)
-  - [[译] What's New for Node.js in 2020](https://mp.weixin.qq.com/s/a-r0Y3xLnltKyOpzDbLXlg)
+  - [【译】 What's New for Node.js in 2020](https://mp.weixin.qq.com/s/a-r0Y3xLnltKyOpzDbLXlg)
